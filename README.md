@@ -1,4 +1,4 @@
- # Hi there! 👋 I'm Felipe Madureira, a Software Engineer with a keen interesting in Devops! 📊
+ # Hi there! 👋 I'm Felipe Madureira, a Software Engineer with a keen interesting in Devops! 
 
 Welcome to my GitHub profile! I'm passionate about understand the Internet under the hood and how to deliver software quicker. Here, you'll find my personal projects and contributions. 
 <br>
