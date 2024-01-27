@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about understand the Internet under
 
 ## Projects
 
-### Project 1: [Challenge proposed by DevGym to create an API Rest for money transfer](https://github.com/madfelps/go-wallet)
+### Project 1 (WIP): [Challenge proposed by DevGym to create an API Rest for money transfer](https://github.com/madfelps/go-wallet)
 
 
 ### Project 2: [Wind-tunnel Control application](https://github.com/madfelps/FAN)
