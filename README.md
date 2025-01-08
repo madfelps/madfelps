@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm passionate about understand the Internet under
 
 ## Skills
 
-- 💻 Programming Skills: Go, Python, C++, C
-- 🏟️ DevOps: Terraform, Docker, Kubernetes, Github Actions, Gitlab CI/CD
-- ☁️ Cloud: AWS
-- 🗃️ Database: Postgres
+- 💻 Programming Skills: Go, Python, Bash scripts, C++, C
+- 🏟️ DevOps: Terraform, Docker, Kubernetes, Github Actions, Gitlab CI/CD, Helm
+- ☁️ Cloud: AWS, Magalu
+- 🗃️ Database: MySQL, Postgres
 
 ## Projects
 
